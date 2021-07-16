@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F03A-D843
+
+ Directory of C:\Users\Meenu\Desktop\MyGitProject
+
+16-07-2021  10:54 AM    <DIR>          .
+16-07-2021  10:54 AM    <DIR>          ..
+16-07-2021  10:54 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  749,931,745,280 bytes free
